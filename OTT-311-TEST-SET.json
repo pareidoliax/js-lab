@@ -1,0 +1,572 @@
+{
+  "name": "OTT-311-TEST-SET",
+  "children": [
+    {
+      "name": "Retail - Container",
+      "children": [
+        {
+          "name": "311 Contact Centre",
+          "size": 1511
+        },
+        {
+          "name": "Ben Franklin CSC",
+          "size": 24
+        },
+        {
+          "name": "Orleans CSC",
+          "size": 32
+        },
+        {
+          "name": null,
+          "size": 16
+        },
+        {
+          "name": "City Hall CSC",
+          "size": 10
+        },
+        {
+          "name": "Metcalfe CSC ",
+          "size": 1
+        },
+        {
+          "name": "Kanata CSC",
+          "size": 18
+        },
+        {
+          "name": "North Gower CSC",
+          "size": 1
+        },
+        {
+          "name": "Metcalfe CSC",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "name": "Solid Waste Collection",
+      "children": [
+        {
+          "name": "Christmas Trees",
+          "size": 84
+        },
+        {
+          "name": "Garbage - SWC",
+          "size": 738
+        },
+        {
+          "name": "Apts-Blue Recycling Carts",
+          "size": 12
+        },
+        {
+          "name": "Organics-SWC",
+          "size": 1375
+        },
+        {
+          "name": "Black Box - SWC",
+          "size": 312
+        },
+        {
+          "name": "Special Consideration",
+          "size": 134
+        },
+        {
+          "name": "Blue Box - SWC",
+          "size": 249
+        },
+        {
+          "name": "Apartments - Garbage",
+          "size": 44
+        },
+        {
+          "name": "Calendar to be Mailed",
+          "size": 361
+        },
+        {
+          "name": "Schools-Green Bin",
+          "size": 6
+        },
+        {
+          "name": "Apts-Recycling Yellow Bin",
+          "size": 26
+        },
+        {
+          "name": "Leaf and Yard Waste",
+          "size": 5
+        },
+        {
+          "name": "Apts-Recycling Grey Bins",
+          "size": 13
+        },
+        {
+          "name": "Apts-Organics",
+          "size": 6
+        },
+        {
+          "name": "Calendar - Comments",
+          "size": 1
+        },
+        {
+          "name": "Apts-Black Recycling Cart",
+          "size": 1
+        },
+        {
+          "name": "Calendar - Got Wrong One",
+          "size": 3
+        }
+      ]
+    },
+    {
+      "name": "Roads Maintenance",
+      "children": [
+        {
+          "name": "Catchbasin/Maint. Hole",
+          "size": 860
+        },
+        {
+          "name": "Sidewalks/Pathways/Trails",
+          "size": 576
+        },
+        {
+          "name": "Road Travelled Surface",
+          "size": 3209
+        },
+        {
+          "name": "Private Property",
+          "size": 288
+        },
+        {
+          "name": "Road Operations General",
+          "size": 445
+        },
+        {
+          "name": "Bus Stop",
+          "size": 24
+        },
+        {
+          "name": "Surface Drainage",
+          "size": 4
+        },
+        {
+          "name": "Road Shoulder",
+          "size": 44
+        },
+        {
+          "name": "Road Boulevard/Easement",
+          "size": 64
+        },
+        {
+          "name": "Ditches",
+          "size": 15
+        },
+        {
+          "name": "Road Median/Island",
+          "size": 2
+        },
+        {
+          "name": "Fences/Walls",
+          "size": 5
+        },
+        {
+          "name": "Road Curb/Gutter",
+          "size": 8
+        },
+        {
+          "name": "Guardrails",
+          "size": 4
+        },
+        {
+          "name": "Waste Receptacle",
+          "size": 9
+        },
+        {
+          "name": "Bridges",
+          "size": 2
+        },
+        {
+          "name": "Municipal Drain",
+          "size": 2
+        },
+        {
+          "name": "Road Flasher/Barricade",
+          "size": 14
+        }
+      ]
+    },
+    {
+      "name": "Bylaw Services",
+      "children": [
+        {
+          "name": "Signs",
+          "size": 54
+        },
+        {
+          "name": "Property Standards",
+          "size": 440
+        },
+        {
+          "name": "Noise",
+          "size": 557
+        },
+        {
+          "name": "Animals",
+          "size": 534
+        },
+        {
+          "name": "Zoning Enforcement",
+          "size": 77
+        },
+        {
+          "name": "Licensing",
+          "size": 15
+        },
+        {
+          "name": "Care of Streets",
+          "size": 136
+        },
+        {
+          "name": "Taxi",
+          "size": 74
+        },
+        {
+          "name": "Parks",
+          "size": 25
+        },
+        {
+          "name": "Graffiti",
+          "size": 31
+        },
+        {
+          "name": "Junk Mail",
+          "size": 3
+        },
+        {
+          "name": "Other",
+          "size": 9
+        },
+        {
+          "name": "Smoking Workplace",
+          "size": 4
+        },
+        {
+          "name": "Firearms",
+          "size": 3
+        },
+        {
+          "name": "Smoking Indoor Spaces",
+          "size": 6
+        },
+        {
+          "name": "Fireworks",
+          "size": 5
+        },
+        {
+          "name": "Curbside Collection",
+          "size": 4
+        },
+        {
+          "name": "Smoking Outdoor Space",
+          "size": 2
+        },
+        {
+          "name": "Fences",
+          "size": 6
+        },
+        {
+          "name": "Parking",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "name": "Traffic Operations",
+      "children": [
+        {
+          "name": "Lights",
+          "size": 370
+        },
+        {
+          "name": "Signs",
+          "size": 287
+        },
+        {
+          "name": "Signals",
+          "size": 267
+        },
+        {
+          "name": "Pavement Markings",
+          "size": 4
+        }
+      ]
+    },
+    {
+      "name": "Parking",
+      "children": [
+        {
+          "name": "Valid Pay & Display Stub",
+          "size": 22
+        },
+        {
+          "name": "Intersections",
+          "size": 74
+        },
+        {
+          "name": "Other",
+          "size": 85
+        },
+        {
+          "name": "Designated Parking",
+          "size": 705
+        },
+        {
+          "name": "Laneways",
+          "size": 386
+        },
+        {
+          "name": "Wrong Person Charged",
+          "size": 116
+        },
+        {
+          "name": "Technical Errors",
+          "size": 21
+        },
+        {
+          "name": "Miscellaneous - Parking",
+          "size": 132
+        },
+        {
+          "name": "Roads/Sidewalks",
+          "size": 95
+        },
+        {
+          "name": "Overtime Parking",
+          "size": 583
+        },
+        {
+          "name": "Consideration Permits",
+          "size": 16
+        },
+        {
+          "name": "No Parking",
+          "size": 200
+        },
+        {
+          "name": "Pay & Display Machine",
+          "size": 134
+        },
+        {
+          "name": "No Stopping",
+          "size": 29
+        },
+        {
+          "name": "Zones",
+          "size": 36
+        },
+        {
+          "name": "Parking Permit",
+          "size": 34
+        },
+        {
+          "name": "Tourist Courtesy Policy",
+          "size": 32
+        },
+        {
+          "name": "Special Events",
+          "size": 8
+        },
+        {
+          "name": "Pay on Foot Stations",
+          "size": 15
+        },
+        {
+          "name": "Availability/New Contract",
+          "size": 20
+        },
+        {
+          "name": "Meter Hood/Unhood",
+          "size": 3
+        },
+        {
+          "name": "Funerals",
+          "size": 2
+        },
+        {
+          "name": "Stolen",
+          "size": 4
+        },
+        {
+          "name": "Parking Permits CSC",
+          "size": 20
+        },
+        {
+          "name": "Defective Equipment",
+          "size": 8
+        },
+        {
+          "name": "Vehicle Info/Update",
+          "size": 2
+        },
+        {
+          "name": "Cancel Contract",
+          "size": 6
+        },
+        {
+          "name": "Meter Unhood Only",
+          "size": 1
+        },
+        {
+          "name": "Ring and Post Bike Rack",
+          "size": 2
+        },
+        {
+          "name": "Same Infract. within 3 hr",
+          "size": 3
+        },
+        {
+          "name": "Overnight (Winter Only)",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "name": "Park Maintenance SAP",
+      "children": [
+        {
+          "name": "Furniture Waste Recept.",
+          "size": 46
+        },
+        {
+          "name": "Sidewalk/Pathways/trails",
+          "size": 43
+        },
+        {
+          "name": "Parking lot",
+          "size": 18
+        },
+        {
+          "name": "Parks Operations General",
+          "size": 15
+        },
+        {
+          "name": "Outdoor Rink",
+          "size": 50
+        },
+        {
+          "name": "Fence/Wall Chain Link",
+          "size": 2
+        },
+        {
+          "name": "Ball Diamond Field",
+          "size": 6
+        },
+        {
+          "name": "Other - Bridge",
+          "size": 1
+        },
+        {
+          "name": "Turf",
+          "size": 4
+        },
+        {
+          "name": "Catchbasin/Maint. Hole",
+          "size": 2
+        }
+      ]
+    },
+    {
+      "name": "RPAM (Buildings Only)",
+      "children": [
+        {
+          "name": "Ottawa",
+          "size": 164
+        },
+        {
+          "name": "OC Transpo",
+          "size": 19
+        }
+      ]
+    },
+    {
+      "name": "Wildlife Conflicts",
+      "children": [
+        {
+          "name": "Coyotes",
+          "size": 17
+        },
+        {
+          "name": "Livestock",
+          "size": 5
+        }
+      ]
+    },
+    {
+      "name": "Building Code Services",
+      "children": [
+        {
+          "name": "Building Code Complaints",
+          "size": 29
+        },
+        {
+          "name": "Building Code Inquiries",
+          "size": 2
+        }
+      ]
+    },
+    {
+      "name": "Graffiti",
+      "children": [
+        {
+          "name": "Offensive",
+          "size": 3
+        },
+        {
+          "name": "Vandalism",
+          "size": 25
+        }
+      ]
+    },
+    {
+      "name": "Health",
+      "children": [
+        {
+          "name": "Public Health Inspector",
+          "size": 36
+        }
+      ]
+    },
+    {
+      "name": "Accessibility",
+      "children": [
+        {
+          "name": "Inq/Complaints & Feedback",
+          "size": 5
+        }
+      ]
+    },
+    {
+      "name": "Birth/Death/Marriage(CSC)",
+      "children": [
+        {
+          "name": "Death/Burial Permit",
+          "size": 1
+        },
+        {
+          "name": "Wedding Ceremony",
+          "size": 7
+        },
+        {
+          "name": "Marriage License",
+          "size": 9
+        }
+      ]
+    },
+    {
+      "name": "Budget",
+      "children": [
+        {
+          "name": "Comments (Budget)",
+          "size": 1
+        }
+      ]
+    }
+  ]
+}
